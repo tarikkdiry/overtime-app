@@ -2,7 +2,7 @@
 
 ## Key requirement: A company needs confirmation that employees did or did not get overtime hours during any particular week.
 
-##Models
+## Models
 - Post -> date:date rationale:text
 - User -> Devise
 - AdminUser -> STI
